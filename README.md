@@ -15,8 +15,6 @@ Return the number of unique elements in `nums`.
 - Modify the input array in-place using O(1) extra memory.
 - Return the number `k` — count of unique elements.
 
----
-
 ## Example
 
 ### Input:
